@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.util.Log
 
 //I make a comment from github to track myself from android studio
+//This time i write some text on android studio to add on github
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
